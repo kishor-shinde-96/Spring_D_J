@@ -8,7 +8,7 @@ public class mainMethod {
 
     @GetMapping("/getResponse")
     public  String getResponse(){
-        return "hello Austere pune";
+        return "hello ASPL";
     }
     
 }
